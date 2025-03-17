@@ -8,12 +8,12 @@ This project is a fully functioning Tech Quiz application built using the MERN s
 - [Usage](#usage)
 - [Testing](#testing)
 - [License](#license)
-- [Questions](#questions)
+- [Demo](#demo)
 
 ## Installation
 To install the necessary dependencies, run the following command:
 
-```bash
+in gitbash
 npm install
 
 ## Usage
@@ -32,12 +32,7 @@ npm run test
 Ensure that the server is running before executing the tests.
 ## License
 
-Questions
-
-If you have any questions, feel free to reach out to me:
-
-    GitHub Repo: [Nebbs82](https://github.com/Nebbs82/Challenge-19-Cypress-Testing.git)
-
-Walkthrough Video
+## Demo
+GitHub Repo [Nebbs82](https://github.com/Nebbs82/Challenge-19-Cypress-Testing.git).
 
 A walkthrough video demonstrating the functionality of the application and the tests can be found [Here](https://drive.google.com/file/d/1TX6UwmzWsGhWJMHuSokVqDWlYPXm-ENc/view).
